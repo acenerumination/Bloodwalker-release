@@ -7,6 +7,6 @@
 Un juego de supervivencia zombie en 2D con vista top-down y arte pixelado.
 
 ## 🎮 Descarga e Instalación
-La compilación jugable más reciente está disponible en la [Página de Releases](https://github.com/acenerumination/Bloodwalker-release/releases).
+La compilación jugable más reciente está disponible en la [página de releases](https://github.com/acenerumination/Bloodwalker-release/releases).
 1. **Descarga:** `Bloodwalker_v1.0.0_Windows.zip`
 2. **Extrae** el archivo y ejecuta `Bloodwalker.exe`.
